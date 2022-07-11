@@ -22,16 +22,16 @@ public class FirstSeleniumTest {
 
             }
 
-            @Test
-    public void navigateTest(){
+     //       @Test
+   // public void navigateTest(){
 //go back
-        driver.navigate().back();
+        //driver.navigate().back();
         // go forward
-        driver.navigate().forward();
+        //driver.navigate().forward();
         //refresh the page
-        driver.navigate().refresh();
+       // driver.navigate().refresh();
             }
     //Test
     //after-tearDawn
 
-}
+
